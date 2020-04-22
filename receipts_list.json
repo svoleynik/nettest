@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "receipt_number": 1652,
+      "retailer_id": "retailer_home_depot",
+      "receipt_price":3.243,
+      "receipt_date": "2019-06-25",
+      "receipt_type": "Electronic",
+      "receipt_warranty": false,
+      "imageName": "receipt/receipt_image_1",
+      "imageLocalName": "receipt_preview/receipt_preview_1",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "receipt_number": 1653,
+      "retailer_id": "retailer_ikea",
+      "receipt_price":92.0,
+      "receipt_date": "2019-06-24",
+      "receipt_type": "Food",
+      "receipt_warranty": false,
+      "imageName": "receipt/receipt_image_2",
+      "imageLocalName": "receipt_preview/receipt_preview_2",
+      "checked": false
+    },
+    {
+      "id": 3,
+        "receipt_number": 1654,
+        "retailer_id": "retailer_hmv",
+        "receipt_price":192.0,
+        "receipt_date": "2019-06-23",
+        "receipt_type": "Pharmacy",
+        "receipt_warranty": false,
+        "imageName": "receipt/receipt_image_1",
+        "imageLocalName": "receipt_preview/receipt_preview_1",
+      "checked": false
+    },
+    {
+        "id": 5,
+        "receipt_number": 1655,
+        "retailer_id": "retailer_nike",
+        "receipt_price":192.0,
+        "receipt_date": "2019-06-22",
+        "receipt_type": "Shoes",
+        "receipt_warranty": false,
+        "imageName": "receipt/receipt_image_1",
+        "imageLocalName": "receipt_preview/receipt_preview_1",
+        "checked": false
+    },
+    {
+      "id": 4,
+        "receipt_number": 1656,
+        "retailer_id": "retailer_levis",
+        "receipt_price":128.0,
+        "receipt_date": "2019-06-21",
+        "receipt_type": "Apparel",
+        "receipt_warranty": false,
+        "imageName": "receipt/receipt_image_2",
+        "imageLocalName": "receipt_preview/receipt_preview_2",
+      "checked": false
+    },
+
+  ]
+
+

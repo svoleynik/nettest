@@ -1,0 +1,134 @@
+{
+    "common": {
+        "Globally": {
+            "common": 213000,
+            "trees": 3864,
+            "ink": 209,
+            "water": 238,
+            "new_trees": 27
+        },
+        "me": {
+            "common": 100,
+            "trees": 239,
+            "ink": 7,
+            "water": 12,
+            "new_trees": 2
+        }
+    },
+    "retailers":[
+        {
+            "retailer_id":"retailer_home_depot",
+            "retailer_name":"Home Depot",
+                "Globally": {
+                    "common": 213000,
+                    "trees": 1203,
+                    "ink": 19,
+                    "water": 62,
+                    "new_trees": 12
+
+                },
+                "me": {
+                    "common": 100,
+                    "trees": 134,
+                    "ink": 4,
+                    "water": 12,
+                    "new_trees": 0
+                }
+        },
+
+        {
+            "retailer_id":"retailer_ikea",
+            "retailer_name":"IKEA",
+            "Globally": {
+
+
+                "common": 213000,
+                "trees": 1203,
+                "ink": 19,
+                "water": 62,
+                "new_trees": 12
+
+            },
+            "me": {
+                "common": 100,
+                "trees": 134,
+                "ink": 4,
+                "water": 12,
+                "new_trees": 0
+
+            }
+        },
+
+        {
+            "retailer_name":"Zara",
+            "retailer_id":"retailer_zara",
+            "Globally": {
+
+
+                "common": 213000,
+                "trees": 1203,
+                "ink": 19,
+                "water": 62,
+                "new_trees": 12
+
+            },
+            "me": {
+                "common": 100,
+                "trees": 134,
+                "ink": 4,
+                "water": 12,
+                "new_trees": 0
+
+            }
+
+        },
+
+        {
+            "retailer_id":"retailer_levis",
+            "retailer_name":"Levi's",
+            "Globally": {
+
+
+                "common": 213000,
+                "trees": 1203,
+                "ink": 19,
+                "water": 62,
+                "new_trees": 12
+
+            },
+            "me": {
+                "common": 100,
+                "trees": 134,
+                "ink": 4,
+                "water": 12,
+                "new_trees": 0
+
+            }
+
+        },
+        {
+            "retailer_id":"retailer_nike",
+            "retailer_name":"Nike",
+            "Globally": {
+
+
+                "common": 213000,
+                "trees": 1203,
+                "ink": 19,
+                "water": 62,
+                "new_trees": 12
+
+            },
+            "me": {
+                "common": 100,
+                "trees": 134,
+                "ink": 4,
+                "water": 12,
+                "new_trees": 0
+
+            }
+
+        }
+    ]
+}
+

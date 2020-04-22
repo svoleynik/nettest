@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "retailer_id": "retailer_home_depot",
+      "name": "Home Depot",
+      "imageName": "retailer_icons/retailer_home_depot",
+      "bigIconName": "retailer_icons/retailer_home_depot",
+      "smallIconName": "retailers_small_icons/home_depot",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "retailer_id": "retailer_ikea",
+      "name": "IKEA",
+      "imageName": "retailer_icons/retailer_ikea",
+      "bigIconName": "retailer_icons/retailer_ikea",
+      "smallIconName": "retailers_small_icons/ikea",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "retailer_id": "retailer_hmv",
+      "name": "HMV",
+      "imageName": "retailer_icons/retailer_hmv",
+      "bigIconName": "retailer_icons/retailer_hmv",
+      "smallIconName": "retailers_small_icons/hmv",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "retailer_id": "retailer_thornhill_craver",
+      "name": "Thornhill Craver",
+      "imageName": "retailer_icons/retailer_thornhill_craver",
+      "bigIconName": "retailer_icons/retailer_thornhill_craver",
+      "smallIconName": "retailers_small_icons/thornhill_craver",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "retailer_id": "retailer_macys",
+      "name": "Macys",
+      "imageName": "retailer_icons/retailer_macys",
+      "bigIconName": "retailer_icons/retailer_macys",
+      "smallIconName": "retailers_small_icons/macys",
+      "checked": false
+    },
+    {
+      "id": 6,
+      "retailer_id": "retailer_zara",
+      "name": "Zara",
+      "imageName": "retailer_icons/retailer_zara",
+      "bigIconName": "retailer_icons/retailer_zara",
+      "smallIconName": "retailers_small_icons/zara",
+      "checked": false
+    },
+    {
+      "id": 7,
+      "retailer_id": "retailer_hickory_farms",
+      "name": "Hickory farms",
+      "imageName": "retailer_icons/retailer_hickory_farms",
+      "bigIconName": "retailer_icons/retailer_hickory_farms",
+      "smallIconName": "retailers_small_icons/hickory_farms",
+      "checked": false
+    },
+    {
+        "id": 8,
+        "retailer_id": "retailer_wella",
+        "name": "Wella",
+        "imageName": "retailer_icons/retailer_wella",
+        "bigIconName": "retailer_icons/retailer_wella",
+        "smallIconName": "retailers_small_icons/wella",
+        "checked": false
+    },
+    {
+      "id": 9,
+      "retailer_id": "retailer_levis",
+      "name": "Levi's",
+      "imageName": "retailer_icons/retailer_levis",
+      "bigIconName": "retailer_icons/retailer_levis",
+      "smallIconName": "retailers_small_icons/levis",
+      "checked": false
+    },
+    {
+      "id": 10,
+      "retailer_id": "retailer_nike",
+      "name": "Nike",
+      "imageName": "retailer_icons/retailer_nike",
+      "bigIconName": "retailer_icons/retailer_nike",
+      "smallIconName": "retailers_small_icons/nike",
+      "checked": false
+    },
+    {
+      "id": 11,
+      "retailer_id": "retailer_home_depot_copy",
+      "name": "Home Depot Copy",
+      "imageName": "retailer_icons/retailer_home_depot",
+      "bigIconName": "retailer_icons/retailer_home_depot",
+      "smallIconName": "retailers_small_icons/home_depot",
+      "checked": false
+    },
+    {
+      "id": 12,
+      "retailer_id": "retailer_ikea_copy",
+      "name": "IKEA Copy",
+      "imageName": "retailer_icons/retailer_ikea",
+      "bigIconName": "retailer_icons/retailer_ikea",
+      "smallIconName": "retailers_small_icons/ikea",
+      "checked": false
+    },
+    {
+      "id": 13,
+      "retailer_id": "retailer_hmv_copy",
+      "name": "HMV Copy",
+      "imageName": "retailer_icons/retailer_hmv",
+      "bigIconName": "retailer_icons/retailer_hmv",
+      "smallIconName": "retailers_small_icons/hmv",
+      "checked": false
+    },
+    {
+      "id": 14,
+      "retailer_id": "retailer_thornhill_craver_copy",
+      "name": "Thornhill Craver Copy",
+      "imageName": "retailer_icons/retailer_thornhill_craver",
+      "bigIconName": "retailer_icons/retailer_thornhill_craver",
+      "smallIconName": "retailers_small_icons/thornhill_craver",
+      "checked": false
+    },
+    {
+      "id": 15,
+      "retailer_id": "retailer_macys_copy",
+      "name": "Macys Copy",
+      "imageName": "retailer_icons/retailer_macys",
+      "bigIconName": "retailer_icons/retailer_macys",
+      "smallIconName": "retailers_small_icons/macys",
+      "checked": false
+    },
+    {
+      "id": 16,
+      "retailer_id": "retailer_zara_copy",
+      "name": "Zara Copy",
+      "imageName": "retailer_icons/retailer_zara",
+      "bigIconName": "retailer_icons/retailer_zara",
+      "smallIconName": "retailers_small_icons/zara",
+      "checked": false
+    },
+    {
+      "id": 17,
+      "retailer_id": "retailer_hickory_farms_copy",
+      "name": "Hickory farms Copy",
+      "imageName": "retailer_icons/retailer_hickory_farms",
+      "bigIconName": "retailer_icons/retailer_hickory_farms",
+      "smallIconName": "retailers_small_icons/hickory_farms",
+      "checked": false
+    },
+    {
+      "id": 18,
+      "retailer_id": "retailer_wella_copy",
+      "name": "Wella Copy",
+      "imageName": "retailer_icons/retailer_wella",
+      "bigIconName": "retailer_icons/retailer_wella",
+      "smallIconName": "retailers_small_icons/wella",
+      "checked": false
+    }
+
+
+  ]
+
+
